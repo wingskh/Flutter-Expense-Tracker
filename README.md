@@ -1,6 +1,7 @@
 # Flutter Expense Tracker App
 
 A simple Flutter app for tracking the expenses of user.
+<br/>
 <img src="./readme/demo.gif" width="300">
 
 ## Getting Started
